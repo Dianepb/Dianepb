@@ -1,8 +1,10 @@
 # Hi, I'm Diane 👋
 
 I turn digital measurement data into business decisions.
-As a freelance : 14 years in digital analytics, from tagging plans to analysis and recommendations with business teams. I am both a consultant and a trainer on those topics. 
-In Total : 26 years of professional experience, mostly foccused on efficiency mesurement. 
+
+**14 years as a freelancer** in digital analytics, from tagging plans to analysis and recommendations with business teams, as both a consultant and a trainer.
+**26 years of professional experience** in total, mostly focused on performance measurement.
+
 
 ### What I work with
 - 📊 **GA4 & Google Tag Manager**: tagging plans, data collection QA, analysis
